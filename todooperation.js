@@ -1,35 +1,3 @@
-// var readlineSync = require('readline-sync');
-// var userName = readlineSync.question('May I have your name? ');
-// console.log('Hi ' + userName + '!');
-
-// var readlineSync = require('readline-sync');
-// todo=[]
-// function addTodo(){
-//     let t=readlineSync.question('Enter todo title ');
-//     todo.push({title:t, isCompleted:false})
-//     console.log("todo")
-// }
-
-// function viewTodo(){
-//     for(obj in todo){
-//         if(todo[obj].isCompleted==true){
-//             console.log( "[X]" );
-//         }else {
-//             console.log( "[ ]" );
-//         }
-//     }
-// }
-// function updateTodo(){
-
-// }
-
-// addTodo();
-// viewTodo();
-
-
-
-//-----------------------------------------------------------------
-
 var readlineSync = require('readline-sync');
 
 
